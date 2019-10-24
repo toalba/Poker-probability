@@ -1,3 +1,7 @@
+/.metadata/
+/.recommenders/
+/.vscode/
+
 # Compiled class file
 *.class
 
