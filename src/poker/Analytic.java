@@ -1,5 +1,4 @@
 package poker;
-
 public class Analytic{
     private double analyticTimes;
     private double highcardCounter=0;
